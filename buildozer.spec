@@ -11,7 +11,7 @@ fullscreen = 0
 
 # Android
 android.api = 35
-android.minapi = 23
+android.minapi = 24
 android.ndk = 27c
 android.archs = arm64-v8a, armeabi-v7a
 android.permissions = INTERNET,FOREGROUND_SERVICE,FOREGROUND_SERVICE_MEDIA_PLAYBACK,WAKE_LOCK,POST_NOTIFICATIONS
