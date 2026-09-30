@@ -1,4 +1,4 @@
-# Mp3Quran Tarateel — Android Python Radio v2
+# Mp3Quran Tarateel — Android Radio v2
 
 This project uses Kivy/Python for the UI and a native Android Foreground Service
 with MediaSession for reliable background playback.
